@@ -1,0 +1,49 @@
+/* 
+*{
+    margin: 0;
+    padding: 0;
+} */
+body{
+    /* background-color: #DEB887; */
+    background-image: url(beans.jpg);
+    font-family: 'sans-serif';
+}
+main h1{
+    font-family: 'Arial black';
+    font-weight: bolder;
+}
+main h2{
+    font-family: 'Arial black';
+    font-weight: bolder;
+}
+#cafe{
+    background-color: #DEB887;
+    /* color: #794331; */
+    text-align: center;
+    width: 60%;
+    height: auto;
+    margin: 5% auto 5% auto;
+    /* margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%; */
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.item p{
+    display: inline-block;
+    width: 40%;
+}
+.product{
+    text-align: left;
+    width: 75%;
+
+}
+.price{
+    text-align: right;
+    width: 5%;
+}
+hr{
+    border: none;
+    height: 5px;
+    background-color: #794331;
+}
